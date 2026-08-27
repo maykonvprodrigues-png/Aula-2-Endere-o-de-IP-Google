@@ -1,0 +1,5 @@
+C:\Users\aluno>python -m http.server 8000
+Serving HTTP on :: port 8000 (http://[::]:8000/) ...
+::1 - - [26/Aug/2026 22:30:37] "GET / HTTP/1.1" 200 -
+::1 - - [26/Aug/2026 22:30:37] code 404, message File not found
+::1 - - [26/Aug/2026 22:30:37] "GET /favicon.ico HTTP/1.1" 404 -
